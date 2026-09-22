@@ -66,6 +66,8 @@ export const TEMPLATES = {
   },
 };
 
+export const FONT_FAMILY = "Tiket Odyssey Display";
+
 export const COLORS = {
   skyTop: "#1E7FE0",
   skyBottom: "#5FB8F5",
